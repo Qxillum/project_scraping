@@ -12,7 +12,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from config import REVERT_KEYWORDS
+from src.config import REVERT_KEYWORDS
 
 
 CLEAN_DIR = Path(__file__).resolve().parent.parent / "data" / "clean"
