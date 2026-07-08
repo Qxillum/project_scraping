@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-from config import ACCENT, HEATMAP_CMAP, MOVING_AVG_COLOR, PALETTE
+from src.config import ACCENT, HEATMAP_CMAP, MOVING_AVG_COLOR, PALETTE
 
 
 FIG_DIR = Path(__file__).resolve().parent.parent / "figures"
