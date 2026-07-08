@@ -1,0 +1,380 @@
+revid,parentid,timestamp,user,anon,minor,size,sha1,comment,page,lang,date,weekday,hour,size_diff,revert_sha1,revert_kw,is_revert
+1000,999,2025-08-22 11:23:00+00:00,IP_126.14,True,True,40146,sha1000,ajout paragraphe,Page_Controversee_(demo),fr,2025-08-22,Friday,11,0,False,False,False
+1001,1000,2025-08-23 16:29:00+00:00,Utilisateur_23,False,False,39350,sha41,ajout source,Page_Controversee_(demo),fr,2025-08-23,Saturday,16,-796,False,False,False
+1003,1002,2025-08-25 16:25:00+00:00,Utilisateur_23,False,True,39172,sha1003,correction typo,Page_Controversee_(demo),fr,2025-08-25,Monday,16,-178,False,False,False
+1002,1001,2025-08-25 20:42:00+00:00,Utilisateur_2,False,False,39133,sha1002,ajout paragraphe,Page_Controversee_(demo),fr,2025-08-25,Monday,20,-39,False,False,False
+1004,1003,2025-08-29 18:45:00+00:00,IP_134.181,True,False,39823,sha1004,ajout paragraphe,Page_Controversee_(demo),fr,2025-08-29,Friday,18,690,False,False,False
+1005,1004,2025-08-30 11:48:00+00:00,IP_252.128,True,False,40405,sha1005,màj références,Page_Controversee_(demo),fr,2025-08-30,Saturday,11,582,False,False,False
+1006,1005,2025-09-03 16:28:00+00:00,IP_120.78,True,True,40585,sha1006,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-03,Wednesday,16,180,False,False,False
+1007,1006,2025-09-04 17:11:00+00:00,Utilisateur_14,False,False,39911,sha47,correction,Page_Controversee_(demo),fr,2025-09-04,Thursday,17,-674,False,False,False
+1008,1007,2025-09-05 15:33:00+00:00,Utilisateur_23,False,False,39508,sha48,revert non neutre,Page_Controversee_(demo),fr,2025-09-05,Friday,15,-403,False,True,True
+1009,1008,2025-09-05 17:55:00+00:00,Utilisateur_23,False,False,39474,sha1009,reformulation,Page_Controversee_(demo),fr,2025-09-05,Friday,17,-34,False,False,False
+1138,1137,2025-09-11 03:05:00+00:00,Utilisateur_10,False,True,33851,sha58,correction,Page_Controversee_(demo),fr,2025-09-11,Thursday,3,-5623,False,False,False
+1130,1129,2025-09-11 03:27:00+00:00,Utilisateur_9,False,True,32798,sha1130,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,3,-1053,False,False,False
+1027,1026,2025-09-11 04:12:00+00:00,Utilisateur_6,False,True,36430,sha1027,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,4,3632,False,False,False
+1106,1105,2025-09-11 04:45:00+00:00,IP_28.117,True,False,33816,sha26,revert non neutre,Page_Controversee_(demo),fr,2025-09-11,Thursday,4,-2614,False,True,True
+1098,1097,2025-09-11 05:27:00+00:00,IP_49.120,True,False,33038,sha1098,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,5,-778,False,False,False
+1021,1020,2025-09-11 05:31:00+00:00,Utilisateur_6,False,True,37250,sha1021,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,5,4212,False,False,False
+1079,1078,2025-09-11 06:44:00+00:00,Utilisateur_6,False,False,35082,sha1079,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,6,-2168,False,False,False
+1057,1056,2025-09-11 07:14:00+00:00,Utilisateur_23,False,False,37675,sha1057,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,7,2593,False,False,False
+1041,1040,2025-09-11 07:23:00+00:00,IP_5.168,True,False,36550,sha1041,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,7,-1125,False,False,False
+1111,1110,2025-09-11 08:16:00+00:00,Utilisateur_13,False,False,33638,sha1111,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,8,-2912,False,False,False
+1034,1033,2025-09-11 08:24:00+00:00,Utilisateur_23,False,True,37131,sha1034,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,8,3493,False,False,False
+1149,1148,2025-09-11 08:32:00+00:00,Utilisateur_14,False,False,34547,sha1149,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,8,-2584,False,False,False
+1059,1058,2025-09-11 08:44:00+00:00,Utilisateur_2,False,False,37379,sha1059,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,8,2832,False,False,False
+1018,1017,2025-09-11 08:57:00+00:00,IP_13.237,True,False,37005,sha1018,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,8,-374,False,False,False
+1104,1103,2025-09-11 09:06:00+00:00,IP_108.19,True,False,33361,sha1104,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-3644,False,False,False
+1043,1042,2025-09-11 09:15:00+00:00,IP_2.141,True,False,36712,sha1043,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,3351,False,False,False
+1070,1069,2025-09-11 09:16:00+00:00,IP_72.101,True,False,36095,sha50,correction,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-617,False,False,False
+1073,1072,2025-09-11 09:17:00+00:00,Utilisateur_25,False,False,35887,sha1073,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-208,False,False,False
+1019,1018,2025-09-11 09:23:00+00:00,IP_204.231,True,True,36829,sha1019,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,942,False,False,False
+1121,1120,2025-09-11 09:26:00+00:00,IP_176.159,True,True,32239,sha1121,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-4590,False,False,False
+1055,1054,2025-09-11 09:28:00+00:00,Utilisateur_5,False,False,37560,sha35,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,5321,False,False,False
+1016,1015,2025-09-11 09:30:00+00:00,Utilisateur_25,False,False,36522,sha1016,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-1038,False,False,False
+1083,1082,2025-09-11 09:41:00+00:00,Utilisateur_6,False,False,35281,sha1083,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-1241,False,False,False
+1013,1012,2025-09-11 09:48:00+00:00,Utilisateur_23,False,False,37734,sha1013,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,2453,False,False,False
+1035,1034,2025-09-11 09:51:00+00:00,IP_174.189,True,False,36675,sha1035,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,9,-1059,False,False,False
+1146,1145,2025-09-11 10:08:00+00:00,Utilisateur_23,False,False,34763,sha1146,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,10,-1912,False,False,False
+1047,1046,2025-09-11 10:08:00+00:00,Utilisateur_1,False,False,37162,sha1047,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,10,2399,False,False,False
+1058,1057,2025-09-11 10:21:00+00:00,IP_243.104,True,True,37503,sha1058,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,10,341,False,False,False
+1032,1031,2025-09-11 10:38:00+00:00,IP_98.228,True,False,36764,sha12,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,10,-739,False,False,False
+1118,1117,2025-09-11 10:55:00+00:00,Utilisateur_9,False,False,33084,sha38,revert non neutre,Page_Controversee_(demo),fr,2025-09-11,Thursday,10,-3680,False,True,True
+1031,1030,2025-09-11 11:03:00+00:00,IP_63.251,True,True,36541,sha1031,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,3457,False,False,False
+1010,1009,2025-09-11 11:07:00+00:00,Utilisateur_15,False,False,39119,sha1010,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,2578,False,False,False
+1046,1045,2025-09-11 11:11:00+00:00,Utilisateur_23,False,False,37061,sha1046,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,-2058,False,False,False
+1099,1098,2025-09-11 11:23:00+00:00,Utilisateur_1,False,False,32579,sha19,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,-4482,False,False,False
+1109,1108,2025-09-11 11:28:00+00:00,Utilisateur_2,False,False,34651,sha29,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,2072,False,True,True
+1105,1104,2025-09-11 11:31:00+00:00,IP_91.236,True,False,33287,sha25,revert non neutre,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,-1364,False,True,True
+1063,1062,2025-09-11 11:32:00+00:00,IP_135.84,True,False,37564,sha43,ajout source,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,4277,False,False,False
+1094,1093,2025-09-11 11:33:00+00:00,Utilisateur_2,False,True,34028,sha1094,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,-3536,False,False,False
+1062,1061,2025-09-11 11:39:00+00:00,Utilisateur_2,False,False,37910,sha1062,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,3882,False,False,False
+1081,1080,2025-09-11 11:51:00+00:00,Utilisateur_21,False,False,35061,sha1081,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,-2849,False,False,False
+1026,1025,2025-09-11 11:58:00+00:00,Utilisateur_2,False,False,36096,sha1026,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,11,1035,False,False,False
+1029,1028,2025-09-11 12:15:00+00:00,Utilisateur_23,False,True,36996,sha9,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,900,False,False,False
+1147,1146,2025-09-11 12:16:00+00:00,Utilisateur_2,False,True,34962,sha1147,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,-2034,False,False,False
+1064,1063,2025-09-11 12:19:00+00:00,Utilisateur_18,False,True,37472,sha1064,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,2510,False,False,False
+1056,1055,2025-09-11 12:27:00+00:00,IP_66.2,True,False,37585,sha1056,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,113,False,False,False
+1060,1059,2025-09-11 12:31:00+00:00,Utilisateur_9,False,False,37420,sha1060,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,-165,False,False,False
+1017,1016,2025-09-11 12:38:00+00:00,Utilisateur_23,False,True,36827,sha1017,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,-593,False,False,False
+1048,1047,2025-09-11 12:46:00+00:00,Utilisateur_23,False,True,36707,sha28,rv POV,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,-120,False,True,True
+1077,1076,2025-09-11 12:56:00+00:00,IP_219.232,True,True,35844,sha57,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,12,-863,False,False,False
+1030,1029,2025-09-11 13:19:00+00:00,Utilisateur_12,False,True,36096,sha10,rv POV,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,252,False,True,True
+1117,1116,2025-09-11 13:26:00+00:00,Utilisateur_18,False,False,32839,sha1117,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,-3257,False,False,False
+1014,1013,2025-09-11 13:27:00+00:00,IP_221.129,True,False,37400,sha1014,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,4561,False,False,False
+1088,1087,2025-09-11 13:30:00+00:00,Utilisateur_23,False,False,33434,sha1088,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,-3966,False,False,False
+1039,1038,2025-09-11 13:33:00+00:00,Utilisateur_25,False,False,35605,sha1039,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,2171,False,False,False
+1119,1118,2025-09-11 13:38:00+00:00,Utilisateur_10,False,True,32945,sha1119,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,-2660,False,False,False
+1051,1050,2025-09-11 13:41:00+00:00,Utilisateur_2,False,True,37321,sha31,rv POV,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,4376,False,True,True
+1113,1112,2025-09-11 13:45:00+00:00,IP_192.134,True,False,33936,sha1113,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,-3385,False,False,False
+1137,1136,2025-09-11 13:45:00+00:00,IP_48.150,True,False,34407,sha1137,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,471,False,False,False
+1102,1101,2025-09-11 13:46:00+00:00,IP_165.214,True,False,33037,sha1102,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,-1370,False,False,False
+1127,1126,2025-09-11 13:59:00+00:00,Utilisateur_6,False,False,31549,sha47,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-11,Thursday,13,-1488,True,True,True
+1093,1092,2025-09-11 14:05:00+00:00,Utilisateur_23,False,False,33513,sha13,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,1964,False,True,True
+1143,1142,2025-09-11 14:06:00+00:00,Utilisateur_5,False,True,34177,sha3,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,664,False,False,False
+1089,1088,2025-09-11 14:06:00+00:00,Utilisateur_25,False,False,33886,sha1089,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,-291,False,False,False
+1148,1147,2025-09-11 14:10:00+00:00,IP_80.93,True,False,35320,sha1148,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,1434,False,False,False
+1100,1099,2025-09-11 14:17:00+00:00,Utilisateur_23,False,True,32638,sha1100,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,-2682,False,False,False
+1124,1123,2025-09-11 14:21:00+00:00,Utilisateur_1,False,False,31339,sha1124,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,-1299,False,False,False
+1139,1138,2025-09-11 14:36:00+00:00,Utilisateur_13,False,True,33614,sha1139,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,2275,False,False,False
+1069,1068,2025-09-11 14:38:00+00:00,IP_202.53,True,True,36208,sha1069,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,2594,False,False,False
+1022,1021,2025-09-11 14:51:00+00:00,IP_48.172,True,False,37529,sha1022,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,1321,False,False,False
+1066,1065,2025-09-11 14:52:00+00:00,IP_8.40,True,False,37903,sha1066,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,374,False,False,False
+1133,1132,2025-09-11 14:55:00+00:00,IP_17.37,True,False,33715,sha1133,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,-4188,False,False,False
+1129,1128,2025-09-11 14:55:00+00:00,Utilisateur_18,False,False,32299,sha1129,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,14,-1416,False,False,False
+1086,1085,2025-09-11 15:01:00+00:00,Utilisateur_25,False,True,34313,sha1086,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,2014,False,False,False
+1142,1141,2025-09-11 15:02:00+00:00,Utilisateur_2,False,True,34759,sha1142,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,446,False,False,False
+1071,1070,2025-09-11 15:09:00+00:00,Utilisateur_23,False,False,35931,sha1071,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,1172,False,False,False
+1065,1064,2025-09-11 15:10:00+00:00,Utilisateur_25,False,True,37707,sha45,rv POV,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,1776,False,True,True
+1095,1094,2025-09-11 15:12:00+00:00,Utilisateur_13,False,True,33228,sha1095,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,-4479,False,False,False
+1038,1037,2025-09-11 15:16:00+00:00,Utilisateur_2,False,True,35973,sha1038,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,2745,False,False,False
+1075,1074,2025-09-11 15:19:00+00:00,Utilisateur_9,False,True,36446,sha1075,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,473,False,False,False
+1044,1043,2025-09-11 15:24:00+00:00,Utilisateur_5,False,True,36212,sha24,revert non neutre,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,-234,False,True,True
+1050,1049,2025-09-11 15:24:00+00:00,Utilisateur_23,False,True,36587,sha1050,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,375,False,False,False
+1024,1023,2025-09-11 15:29:00+00:00,Utilisateur_2,False,True,36580,sha1024,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,-7,False,False,False
+1116,1115,2025-09-11 15:34:00+00:00,Utilisateur_24,False,True,33469,sha1116,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,-3111,False,False,False
+1023,1022,2025-09-11 15:46:00+00:00,IP_104.30,True,False,37021,sha1023,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,3552,False,False,False
+1096,1095,2025-09-11 15:57:00+00:00,IP_31.85,True,False,33640,sha16,ajout source,Page_Controversee_(demo),fr,2025-09-11,Thursday,15,-3381,False,False,False
+1126,1125,2025-09-11 16:00:00+00:00,IP_213.184,True,False,31399,sha1126,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-2241,False,False,False
+1042,1041,2025-09-11 16:08:00+00:00,IP_151.197,True,False,36708,sha1042,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,5309,False,False,False
+1101,1100,2025-09-11 16:09:00+00:00,Utilisateur_23,False,True,32634,sha21,ajout source,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-4074,False,False,False
+1036,1035,2025-09-11 16:11:00+00:00,IP_39.81,True,True,36738,sha1036,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,4104,False,False,False
+1125,1124,2025-09-11 16:12:00+00:00,Utilisateur_25,False,False,31563,sha45,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-5175,True,False,True
+1087,1086,2025-09-11 16:14:00+00:00,Utilisateur_22,False,True,33696,sha7,ajout source,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,2133,False,False,False
+1020,1019,2025-09-11 16:15:00+00:00,IP_173.193,True,True,37374,sha1020,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,3678,False,False,False
+1025,1024,2025-09-11 16:18:00+00:00,Utilisateur_9,False,False,35904,sha1025,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-1470,False,False,False
+1076,1075,2025-09-11 16:19:00+00:00,Utilisateur_22,False,True,35953,sha56,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,49,False,False,False
+1067,1066,2025-09-11 16:31:00+00:00,IP_136.214,True,False,36444,sha1067,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,491,False,False,False
+1080,1079,2025-09-11 16:32:00+00:00,Utilisateur_21,False,False,35404,sha1080,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-1040,False,False,False
+1072,1071,2025-09-11 16:36:00+00:00,Utilisateur_2,False,True,36080,sha1072,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,676,False,False,False
+1011,1010,2025-09-11 16:37:00+00:00,IP_161.2,True,False,39056,sha51,correction,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,2976,False,False,False
+1131,1130,2025-09-11 16:43:00+00:00,Utilisateur_21,False,True,32982,sha51,correction,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-6074,True,False,True
+1054,1053,2025-09-11 16:46:00+00:00,IP_34.78,True,True,38096,sha1054,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,5114,False,False,False
+1068,1067,2025-09-11 16:49:00+00:00,Utilisateur_1,False,False,36251,sha1068,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,-1845,False,False,False
+1045,1044,2025-09-11 16:58:00+00:00,IP_213.13,True,True,36622,sha1045,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,16,371,False,False,False
+1040,1039,2025-09-11 17:06:00+00:00,IP_153.131,True,True,35859,sha1040,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,-763,False,False,False
+1033,1032,2025-09-11 17:09:00+00:00,IP_1.105,True,False,36680,sha13,rv POV,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,821,True,True,True
+1078,1077,2025-09-11 17:16:00+00:00,Utilisateur_2,False,False,35001,sha1078,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,-1679,False,False,False
+1082,1081,2025-09-11 17:18:00+00:00,Utilisateur_23,False,False,35104,sha1082,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,103,False,False,False
+1090,1089,2025-09-11 17:22:00+00:00,Utilisateur_23,False,False,33569,sha1090,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,-1535,False,False,False
+1012,1011,2025-09-11 17:25:00+00:00,Utilisateur_1,False,False,38697,sha1012,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,5128,False,False,False
+1134,1133,2025-09-11 17:30:00+00:00,Utilisateur_23,False,True,34262,sha1134,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,-4435,False,False,False
+1140,1139,2025-09-11 17:43:00+00:00,Utilisateur_10,False,False,34533,sha1140,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,271,False,False,False
+1108,1107,2025-09-11 17:54:00+00:00,IP_205.204,True,False,34141,sha1108,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,17,-392,False,False,False
+1112,1111,2025-09-11 18:04:00+00:00,IP_97.77,True,True,33676,sha1112,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,-465,False,False,False
+1037,1036,2025-09-11 18:09:00+00:00,Utilisateur_2,False,False,36330,sha1037,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,2654,False,False,False
+1123,1122,2025-09-11 18:11:00+00:00,Utilisateur_25,False,False,31751,sha43,correction,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,-4579,True,False,True
+1120,1119,2025-09-11 18:13:00+00:00,Utilisateur_6,False,False,32864,sha1120,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,1113,False,False,False
+1091,1090,2025-09-11 18:14:00+00:00,Utilisateur_14,False,False,33609,sha1091,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,745,False,False,False
+1103,1102,2025-09-11 18:20:00+00:00,Utilisateur_2,False,True,33630,sha1103,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,21,False,False,False
+1053,1052,2025-09-11 18:23:00+00:00,Utilisateur_25,False,False,37830,sha1053,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,4200,False,False,False
+1145,1144,2025-09-11 18:47:00+00:00,IP_122.99,True,False,34479,sha1145,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,-3351,False,False,False
+1097,1096,2025-09-11 18:51:00+00:00,Utilisateur_13,False,False,33640,sha1097,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,-839,False,False,False
+1122,1121,2025-09-11 18:57:00+00:00,IP_133.114,True,True,31488,sha42,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-11,Thursday,18,-2152,False,True,True
+1092,1091,2025-09-11 19:19:00+00:00,Utilisateur_1,False,False,33610,sha12,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-11,Thursday,19,2122,True,True,True
+1136,1135,2025-09-11 20:11:00+00:00,Utilisateur_12,False,True,34440,sha1136,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,830,False,False,False
+1085,1084,2025-09-11 20:14:00+00:00,Utilisateur_2,False,True,34216,sha1085,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,-224,False,False,False
+1084,1083,2025-09-11 20:39:00+00:00,Utilisateur_2,False,False,34853,sha4,mise en forme,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,637,False,False,False
+1128,1127,2025-09-11 20:40:00+00:00,Utilisateur_23,False,False,31710,sha1128,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,-3143,False,False,False
+1107,1106,2025-09-11 20:41:00+00:00,Utilisateur_1,False,False,34107,sha1107,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,2397,False,False,False
+1074,1073,2025-09-11 20:42:00+00:00,Utilisateur_10,False,False,36193,sha1074,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,2086,False,False,False
+1049,1048,2025-09-11 20:55:00+00:00,Utilisateur_2,False,False,35963,sha1049,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,20,-230,False,False,False
+1015,1014,2025-09-11 21:06:00+00:00,Utilisateur_23,False,True,37231,sha1015,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,21,1268,False,False,False
+1144,1143,2025-09-11 21:23:00+00:00,Utilisateur_24,False,True,34488,sha1144,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,21,-2743,False,False,False
+1061,1060,2025-09-11 21:36:00+00:00,IP_240.59,True,False,37447,sha41,rv POV,Page_Controversee_(demo),fr,2025-09-11,Thursday,21,2959,True,True,True
+1114,1113,2025-09-11 21:39:00+00:00,Utilisateur_25,False,True,33945,sha1114,reformulation,Page_Controversee_(demo),fr,2025-09-11,Thursday,21,-3502,False,False,False
+1110,1109,2025-09-11 21:40:00+00:00,Utilisateur_21,False,False,33928,sha1110,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,21,-17,False,False,False
+1115,1114,2025-09-11 21:54:00+00:00,IP_143.85,True,False,33140,sha1115,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,21,-788,False,False,False
+1141,1140,2025-09-11 22:26:00+00:00,Utilisateur_25,False,False,34716,sha1141,précision,Page_Controversee_(demo),fr,2025-09-11,Thursday,22,1576,False,False,False
+1132,1131,2025-09-11 22:49:00+00:00,Utilisateur_25,False,True,33455,sha1132,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,22,-1261,False,False,False
+1052,1051,2025-09-11 22:59:00+00:00,Utilisateur_24,False,False,37467,sha1052,correction typo,Page_Controversee_(demo),fr,2025-09-11,Thursday,22,4012,False,False,False
+1028,1027,2025-09-11 23:03:00+00:00,Utilisateur_23,False,False,36680,sha1028,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,23,-787,False,False,False
+1135,1134,2025-09-11 23:24:00+00:00,Utilisateur_9,False,True,34179,sha1135,màj références,Page_Controversee_(demo),fr,2025-09-11,Thursday,23,-2501,False,False,False
+1150,1149,2025-09-12 04:26:00+00:00,Utilisateur_23,False,True,35026,sha1150,reformulation,Page_Controversee_(demo),fr,2025-09-12,Friday,4,847,False,False,False
+1165,1164,2025-09-12 05:04:00+00:00,IP_58.218,True,False,32175,sha1165,reformulation,Page_Controversee_(demo),fr,2025-09-12,Friday,5,-2851,False,False,False
+1151,1150,2025-09-12 06:28:00+00:00,Utilisateur_20,False,True,34561,sha1151,màj références,Page_Controversee_(demo),fr,2025-09-12,Friday,6,2386,False,False,False
+1167,1166,2025-09-12 09:02:00+00:00,Utilisateur_6,False,False,31582,sha27,mise en forme,Page_Controversee_(demo),fr,2025-09-12,Friday,9,-2979,False,False,False
+1160,1159,2025-09-12 09:31:00+00:00,Utilisateur_25,False,False,33594,sha1160,précision,Page_Controversee_(demo),fr,2025-09-12,Friday,9,2012,False,False,False
+1156,1155,2025-09-12 10:25:00+00:00,IP_60.87,True,False,33932,sha1156,reformulation,Page_Controversee_(demo),fr,2025-09-12,Friday,10,338,False,False,False
+1164,1163,2025-09-12 11:05:00+00:00,Utilisateur_23,False,False,32507,sha24,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-12,Friday,11,-1425,True,True,True
+1152,1151,2025-09-12 11:11:00+00:00,Utilisateur_25,False,False,34457,sha1152,précision,Page_Controversee_(demo),fr,2025-09-12,Friday,11,1950,False,False,False
+1155,1154,2025-09-12 12:44:00+00:00,Utilisateur_5,False,False,33641,sha1155,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-12,Friday,12,-816,False,False,False
+1169,1168,2025-09-12 13:15:00+00:00,IP_133.85,True,False,32391,sha1169,précision,Page_Controversee_(demo),fr,2025-09-12,Friday,13,-1250,False,False,False
+1166,1165,2025-09-12 14:07:00+00:00,Utilisateur_23,False,False,32178,sha1166,précision,Page_Controversee_(demo),fr,2025-09-12,Friday,14,-213,False,False,False
+1172,1171,2025-09-12 14:12:00+00:00,Utilisateur_22,False,True,32055,sha1172,correction typo,Page_Controversee_(demo),fr,2025-09-12,Friday,14,-123,False,False,False
+1163,1162,2025-09-12 14:16:00+00:00,Utilisateur_9,False,False,32431,sha1163,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-12,Friday,14,376,False,False,False
+1159,1158,2025-09-12 14:20:00+00:00,Utilisateur_2,False,False,33466,sha19,mise en forme,Page_Controversee_(demo),fr,2025-09-12,Friday,14,1035,True,False,True
+1168,1167,2025-09-12 14:30:00+00:00,Utilisateur_23,False,False,32091,sha1168,màj références,Page_Controversee_(demo),fr,2025-09-12,Friday,14,-1375,False,False,False
+1171,1170,2025-09-12 15:05:00+00:00,Utilisateur_9,False,False,32167,sha1171,correction typo,Page_Controversee_(demo),fr,2025-09-12,Friday,15,76,False,False,False
+1153,1152,2025-09-12 15:44:00+00:00,Utilisateur_25,False,True,34136,sha1153,correction typo,Page_Controversee_(demo),fr,2025-09-12,Friday,15,1969,False,False,False
+1157,1156,2025-09-12 15:46:00+00:00,Utilisateur_9,False,True,33428,sha1157,précision,Page_Controversee_(demo),fr,2025-09-12,Friday,15,-708,False,False,False
+1154,1153,2025-09-12 16:13:00+00:00,IP_50.160,True,False,33586,sha1154,reformulation,Page_Controversee_(demo),fr,2025-09-12,Friday,16,158,False,False,False
+1158,1157,2025-09-12 19:21:00+00:00,IP_253.53,True,True,33648,sha1158,correction typo,Page_Controversee_(demo),fr,2025-09-12,Friday,19,62,False,False,False
+1162,1161,2025-09-12 20:14:00+00:00,Utilisateur_25,False,True,33141,sha1162,correction typo,Page_Controversee_(demo),fr,2025-09-12,Friday,20,-507,False,False,False
+1161,1160,2025-09-12 21:59:00+00:00,Utilisateur_2,False,True,33026,sha1161,précision,Page_Controversee_(demo),fr,2025-09-12,Friday,21,-115,False,False,False
+1170,1169,2025-09-12 23:23:00+00:00,Utilisateur_13,False,False,32113,sha1170,correction typo,Page_Controversee_(demo),fr,2025-09-12,Friday,23,-913,False,False,False
+1191,1190,2025-09-13 07:14:00+00:00,Utilisateur_23,False,True,28330,sha1191,reformulation,Page_Controversee_(demo),fr,2025-09-13,Saturday,7,-3783,False,False,False
+1179,1178,2025-09-13 09:22:00+00:00,Utilisateur_2,False,False,30699,sha39,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-13,Saturday,9,2369,False,True,True
+1178,1177,2025-09-13 10:10:00+00:00,Utilisateur_8,False,True,31075,sha38,rv POV,Page_Controversee_(demo),fr,2025-09-13,Saturday,10,376,True,True,True
+1173,1172,2025-09-13 10:19:00+00:00,Utilisateur_1,False,True,31840,sha1173,màj références,Page_Controversee_(demo),fr,2025-09-13,Saturday,10,765,False,False,False
+1176,1175,2025-09-13 10:26:00+00:00,Utilisateur_23,False,False,31354,sha1176,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,10,-486,False,False,False
+1185,1184,2025-09-13 10:45:00+00:00,Utilisateur_2,False,False,29854,sha1185,màj références,Page_Controversee_(demo),fr,2025-09-13,Saturday,10,-1500,False,False,False
+1190,1189,2025-09-13 12:58:00+00:00,Utilisateur_6,False,False,29111,sha1190,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-13,Saturday,12,-743,False,False,False
+1186,1185,2025-09-13 13:02:00+00:00,Utilisateur_15,False,False,29972,sha1186,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,13,861,False,False,False
+1174,1173,2025-09-13 14:24:00+00:00,IP_241.91,True,False,31288,sha1174,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,14,1316,False,False,False
+1189,1188,2025-09-13 14:38:00+00:00,Utilisateur_23,False,True,29274,sha49,correction,Page_Controversee_(demo),fr,2025-09-13,Saturday,14,-2014,False,False,False
+1180,1179,2025-09-13 15:02:00+00:00,Utilisateur_21,False,False,30123,sha1180,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,15,849,False,False,False
+1175,1174,2025-09-13 15:17:00+00:00,Utilisateur_23,False,True,30593,sha1175,correction typo,Page_Controversee_(demo),fr,2025-09-13,Saturday,15,470,False,False,False
+1187,1186,2025-09-13 15:38:00+00:00,Utilisateur_2,False,False,28998,sha1187,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,15,-1595,False,False,False
+1177,1176,2025-09-13 16:18:00+00:00,Utilisateur_23,False,True,31610,sha1177,correction typo,Page_Controversee_(demo),fr,2025-09-13,Saturday,16,2612,False,False,False
+1192,1191,2025-09-13 16:20:00+00:00,IP_64.162,True,False,28703,sha1192,màj références,Page_Controversee_(demo),fr,2025-09-13,Saturday,16,-2907,False,False,False
+1188,1187,2025-09-13 17:33:00+00:00,Utilisateur_13,False,True,29404,sha48,correction,Page_Controversee_(demo),fr,2025-09-13,Saturday,17,701,True,False,True
+1182,1181,2025-09-13 17:41:00+00:00,Utilisateur_23,False,False,30093,sha42,ajout source,Page_Controversee_(demo),fr,2025-09-13,Saturday,17,689,True,False,True
+1181,1180,2025-09-13 18:10:00+00:00,IP_119.107,True,True,29968,sha1181,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,18,-125,False,False,False
+1183,1182,2025-09-13 18:27:00+00:00,Utilisateur_6,False,False,30532,sha1183,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,18,564,False,False,False
+1184,1183,2025-09-13 21:26:00+00:00,Utilisateur_2,False,False,30221,sha1184,précision,Page_Controversee_(demo),fr,2025-09-13,Saturday,21,-311,False,False,False
+1201,1200,2025-09-14 07:33:00+00:00,Utilisateur_9,False,False,27202,sha1201,correction typo,Page_Controversee_(demo),fr,2025-09-14,Sunday,7,-3019,False,False,False
+1197,1196,2025-09-14 10:10:00+00:00,Utilisateur_2,False,True,28031,sha1197,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-14,Sunday,10,829,False,False,False
+1199,1198,2025-09-14 10:22:00+00:00,Utilisateur_25,False,False,27390,sha59,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-14,Sunday,10,-641,False,True,True
+1196,1195,2025-09-14 12:31:00+00:00,IP_33.135,True,False,28150,sha1196,reformulation,Page_Controversee_(demo),fr,2025-09-14,Sunday,12,760,False,False,False
+1202,1201,2025-09-14 13:21:00+00:00,Utilisateur_21,False,False,27281,sha1202,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-14,Sunday,13,-869,False,False,False
+1200,1199,2025-09-14 13:40:00+00:00,IP_39.206,True,False,26913,sha1200,précision,Page_Controversee_(demo),fr,2025-09-14,Sunday,13,-368,False,False,False
+1193,1192,2025-09-14 13:43:00+00:00,Utilisateur_2,False,False,28352,sha1193,reformulation,Page_Controversee_(demo),fr,2025-09-14,Sunday,13,1439,False,False,False
+1195,1194,2025-09-14 16:04:00+00:00,Utilisateur_21,False,False,28965,sha1195,màj références,Page_Controversee_(demo),fr,2025-09-14,Sunday,16,613,False,False,False
+1198,1197,2025-09-14 16:55:00+00:00,IP_148.5,True,False,27473,sha58,rv POV,Page_Controversee_(demo),fr,2025-09-14,Sunday,16,-1492,True,True,True
+1194,1193,2025-09-14 18:14:00+00:00,Utilisateur_25,False,False,28374,sha1194,reformulation,Page_Controversee_(demo),fr,2025-09-14,Sunday,18,901,False,False,False
+1211,1210,2025-09-15 07:40:00+00:00,Utilisateur_2,False,True,24858,sha1211,précision,Page_Controversee_(demo),fr,2025-09-15,Monday,7,-3516,False,False,False
+1204,1203,2025-09-15 08:09:00+00:00,IP_106.35,True,False,27603,sha1204,reformulation,Page_Controversee_(demo),fr,2025-09-15,Monday,8,2745,False,False,False
+1206,1205,2025-09-15 11:11:00+00:00,IP_140.17,True,False,26197,sha1206,reformulation,Page_Controversee_(demo),fr,2025-09-15,Monday,11,-1406,False,False,False
+1210,1209,2025-09-15 12:35:00+00:00,Utilisateur_4,False,True,24836,sha1210,précision,Page_Controversee_(demo),fr,2025-09-15,Monday,12,-1361,False,False,False
+1209,1208,2025-09-15 13:35:00+00:00,Utilisateur_2,False,False,25708,sha1209,reformulation,Page_Controversee_(demo),fr,2025-09-15,Monday,13,872,False,False,False
+1205,1204,2025-09-15 14:18:00+00:00,Utilisateur_1,False,False,27416,sha1205,reformulation,Page_Controversee_(demo),fr,2025-09-15,Monday,14,1708,False,False,False
+1208,1207,2025-09-15 14:32:00+00:00,Utilisateur_23,False,True,25721,sha1208,correction typo,Page_Controversee_(demo),fr,2025-09-15,Monday,14,-1695,False,False,False
+1203,1202,2025-09-15 17:02:00+00:00,Utilisateur_21,False,True,27175,sha1203,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-15,Monday,17,1454,False,False,False
+1207,1206,2025-09-15 19:30:00+00:00,Utilisateur_2,False,False,25429,sha1207,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-15,Monday,19,-1746,False,False,False
+1212,1211,2025-09-16 07:01:00+00:00,Utilisateur_23,False,False,24377,sha1212,reformulation,Page_Controversee_(demo),fr,2025-09-16,Tuesday,7,-1052,False,False,False
+1217,1216,2025-09-16 11:51:00+00:00,IP_108.24,True,False,24569,sha1217,précision,Page_Controversee_(demo),fr,2025-09-16,Tuesday,11,192,False,False,False
+1213,1212,2025-09-16 12:21:00+00:00,Utilisateur_2,False,True,24084,sha13,rv POV,Page_Controversee_(demo),fr,2025-09-16,Tuesday,12,-485,True,True,True
+1219,1218,2025-09-16 12:57:00+00:00,IP_139.202,True,False,25417,sha1219,correction typo,Page_Controversee_(demo),fr,2025-09-16,Tuesday,12,1333,False,False,False
+1214,1213,2025-09-16 15:27:00+00:00,Utilisateur_10,False,True,23962,sha1214,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-16,Tuesday,15,-1455,False,False,False
+1216,1215,2025-09-16 15:45:00+00:00,Utilisateur_18,False,False,24477,sha1216,reformulation,Page_Controversee_(demo),fr,2025-09-16,Tuesday,15,515,False,False,False
+1221,1220,2025-09-16 15:47:00+00:00,IP_129.139,True,False,25418,sha1221,màj références,Page_Controversee_(demo),fr,2025-09-16,Tuesday,15,941,False,False,False
+1222,1221,2025-09-16 15:52:00+00:00,Utilisateur_13,False,False,24378,sha1222,màj références,Page_Controversee_(demo),fr,2025-09-16,Tuesday,15,-1040,False,False,False
+1218,1217,2025-09-16 15:54:00+00:00,Utilisateur_21,False,True,25454,sha1218,correction typo,Page_Controversee_(demo),fr,2025-09-16,Tuesday,15,1076,False,False,False
+1220,1219,2025-09-16 19:30:00+00:00,Utilisateur_25,False,False,25413,sha1220,correction typo,Page_Controversee_(demo),fr,2025-09-16,Tuesday,19,-41,False,False,False
+1215,1214,2025-09-16 21:18:00+00:00,Utilisateur_2,False,False,24592,sha15,correction,Page_Controversee_(demo),fr,2025-09-16,Tuesday,21,-821,False,False,False
+1225,1224,2025-09-17 11:39:00+00:00,Utilisateur_20,False,False,24727,sha25,correction,Page_Controversee_(demo),fr,2025-09-17,Wednesday,11,135,True,False,True
+1227,1226,2025-09-17 13:13:00+00:00,Utilisateur_23,False,True,25436,sha1227,précision,Page_Controversee_(demo),fr,2025-09-17,Wednesday,13,709,False,False,False
+1224,1223,2025-09-17 13:27:00+00:00,Utilisateur_5,False,False,24687,sha1224,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-17,Wednesday,13,-749,False,False,False
+1223,1222,2025-09-17 13:54:00+00:00,IP_249.180,True,True,24423,sha23,ajout source,Page_Controversee_(demo),fr,2025-09-17,Wednesday,13,-264,False,False,False
+1229,1228,2025-09-17 13:56:00+00:00,IP_28.85,True,True,25419,sha29,ajout source,Page_Controversee_(demo),fr,2025-09-17,Wednesday,13,996,True,False,True
+1230,1229,2025-09-17 14:25:00+00:00,Utilisateur_6,False,True,25573,sha30,correction,Page_Controversee_(demo),fr,2025-09-17,Wednesday,14,154,False,False,False
+1231,1230,2025-09-17 15:35:00+00:00,Utilisateur_16,False,False,25322,sha1231,reformulation,Page_Controversee_(demo),fr,2025-09-17,Wednesday,15,-251,False,False,False
+1228,1227,2025-09-17 16:49:00+00:00,IP_136.114,True,True,25648,sha28,revert non neutre,Page_Controversee_(demo),fr,2025-09-17,Wednesday,16,326,True,True,True
+1226,1225,2025-09-17 18:33:00+00:00,IP_126.242,True,False,24748,sha1226,correction typo,Page_Controversee_(demo),fr,2025-09-17,Wednesday,18,-900,False,False,False
+1233,1232,2025-09-18 11:29:00+00:00,Utilisateur_23,False,True,25350,sha33,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-09-18,Thursday,11,602,False,True,True
+1234,1233,2025-09-18 13:44:00+00:00,Utilisateur_23,False,False,25434,sha34,mise en forme,Page_Controversee_(demo),fr,2025-09-18,Thursday,13,84,False,False,False
+1232,1231,2025-09-18 15:44:00+00:00,Utilisateur_12,False,False,25635,sha1232,reformulation,Page_Controversee_(demo),fr,2025-09-18,Thursday,15,201,False,False,False
+1237,1236,2025-09-18 15:46:00+00:00,Utilisateur_10,False,False,25525,sha1237,correction typo,Page_Controversee_(demo),fr,2025-09-18,Thursday,15,-110,False,False,False
+1236,1235,2025-09-18 15:55:00+00:00,Utilisateur_16,False,False,25486,sha1236,màj références,Page_Controversee_(demo),fr,2025-09-18,Thursday,15,-39,False,False,False
+1235,1234,2025-09-18 16:39:00+00:00,IP_114.247,True,True,25459,sha1235,correction typo,Page_Controversee_(demo),fr,2025-09-18,Thursday,16,-27,False,False,False
+1241,1240,2025-09-19 10:15:00+00:00,IP_228.66,True,False,26138,sha1241,correction typo,Page_Controversee_(demo),fr,2025-09-19,Friday,10,679,False,False,False
+1240,1239,2025-09-19 11:10:00+00:00,IP_208.129,True,True,25868,sha1240,màj références,Page_Controversee_(demo),fr,2025-09-19,Friday,11,-270,False,False,False
+1238,1237,2025-09-19 13:29:00+00:00,Utilisateur_2,False,False,25863,sha1238,reformulation,Page_Controversee_(demo),fr,2025-09-19,Friday,13,-5,False,False,False
+1239,1238,2025-09-19 20:18:00+00:00,Utilisateur_2,False,True,25576,sha1239,correction typo,Page_Controversee_(demo),fr,2025-09-19,Friday,20,-287,False,False,False
+1242,1241,2025-09-20 12:42:00+00:00,Utilisateur_13,False,False,26391,sha1242,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-20,Saturday,12,815,False,False,False
+1245,1244,2025-09-21 13:06:00+00:00,Utilisateur_2,False,False,25558,sha1245,correction typo,Page_Controversee_(demo),fr,2025-09-21,Sunday,13,-833,False,False,False
+1244,1243,2025-09-21 13:18:00+00:00,Utilisateur_2,False,True,26254,sha1244,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-21,Sunday,13,696,False,False,False
+1246,1245,2025-09-21 14:51:00+00:00,Utilisateur_18,False,False,25186,sha1246,correction typo,Page_Controversee_(demo),fr,2025-09-21,Sunday,14,-1068,False,False,False
+1247,1246,2025-09-21 15:39:00+00:00,IP_99.177,True,False,25100,sha1247,correction typo,Page_Controversee_(demo),fr,2025-09-21,Sunday,15,-86,False,False,False
+1243,1242,2025-09-21 19:53:00+00:00,Utilisateur_25,False,False,26051,sha1243,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-21,Sunday,19,951,False,False,False
+1248,1247,2025-09-22 12:59:00+00:00,Utilisateur_20,False,False,24983,sha1248,précision,Page_Controversee_(demo),fr,2025-09-22,Monday,12,-1068,False,False,False
+1249,1248,2025-09-22 16:21:00+00:00,Utilisateur_23,False,True,25499,sha1249,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-22,Monday,16,516,False,False,False
+1250,1249,2025-09-24 11:01:00+00:00,Utilisateur_16,False,False,24905,sha1250,ajout paragraphe,Page_Controversee_(demo),fr,2025-09-24,Wednesday,11,-594,False,False,False
+1251,1250,2025-09-24 11:26:00+00:00,Utilisateur_24,False,True,24965,sha51,mise en forme,Page_Controversee_(demo),fr,2025-09-24,Wednesday,11,60,True,False,True
+1252,1251,2025-09-25 23:45:00+00:00,Utilisateur_2,False,True,25598,sha1252,précision,Page_Controversee_(demo),fr,2025-09-25,Thursday,23,633,False,False,False
+1253,1252,2025-09-26 10:29:00+00:00,Utilisateur_2,False,False,26089,sha1253,reformulation,Page_Controversee_(demo),fr,2025-09-26,Friday,10,491,False,False,False
+1254,1253,2025-09-27 09:12:00+00:00,Utilisateur_1,False,True,25792,sha1254,correction typo,Page_Controversee_(demo),fr,2025-09-27,Saturday,9,-297,False,False,False
+1255,1254,2025-09-28 19:59:00+00:00,Utilisateur_13,False,False,26205,sha1255,reformulation,Page_Controversee_(demo),fr,2025-09-28,Sunday,19,413,False,False,False
+1257,1256,2025-10-01 14:45:00+00:00,Utilisateur_2,False,False,25154,sha1257,correction typo,Page_Controversee_(demo),fr,2025-10-01,Wednesday,14,-1051,False,False,False
+1256,1255,2025-10-01 16:33:00+00:00,Utilisateur_25,False,False,25892,sha1256,màj références,Page_Controversee_(demo),fr,2025-10-01,Wednesday,16,738,False,False,False
+1258,1257,2025-10-01 16:57:00+00:00,Utilisateur_2,False,True,23929,sha1258,ajout paragraphe,Page_Controversee_(demo),fr,2025-10-01,Wednesday,16,-1963,False,False,False
+1260,1259,2025-10-02 16:05:00+00:00,Utilisateur_9,False,True,23738,sha1260,précision,Page_Controversee_(demo),fr,2025-10-02,Thursday,16,-191,False,False,False
+1259,1258,2025-10-02 22:07:00+00:00,Utilisateur_20,False,True,24370,sha1259,màj références,Page_Controversee_(demo),fr,2025-10-02,Thursday,22,632,False,False,False
+1261,1260,2025-10-06 19:31:00+00:00,Utilisateur_23,False,False,24767,sha1,mise en forme,Page_Controversee_(demo),fr,2025-10-06,Monday,19,397,False,False,False
+1262,1261,2025-10-11 12:18:00+00:00,IP_7.138,True,False,24594,sha1262,reformulation,Page_Controversee_(demo),fr,2025-10-11,Saturday,12,-173,False,False,False
+1263,1262,2025-10-12 13:53:00+00:00,Utilisateur_25,False,True,24924,sha3,correction,Page_Controversee_(demo),fr,2025-10-12,Sunday,13,330,True,False,True
+1264,1263,2025-10-25 20:05:00+00:00,Utilisateur_23,False,False,25085,sha1264,reformulation,Page_Controversee_(demo),fr,2025-10-25,Saturday,20,161,False,False,False
+1265,1264,2025-10-29 13:15:00+00:00,Utilisateur_6,False,True,24132,sha1265,màj références,Page_Controversee_(demo),fr,2025-10-29,Wednesday,13,-953,False,False,False
+1266,1265,2025-10-30 06:12:00+00:00,IP_153.115,True,True,23511,sha1266,précision,Page_Controversee_(demo),fr,2025-10-30,Thursday,6,-621,False,False,False
+1267,1266,2025-11-02 14:06:00+00:00,Utilisateur_25,False,True,23930,sha7,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2025-11-02,Sunday,14,419,True,True,True
+1269,1268,2025-11-09 12:30:00+00:00,Utilisateur_20,False,False,23529,sha1269,ajout paragraphe,Page_Controversee_(demo),fr,2025-11-09,Sunday,12,-401,False,False,False
+1268,1267,2025-11-09 20:20:00+00:00,Utilisateur_1,False,True,23543,sha1268,précision,Page_Controversee_(demo),fr,2025-11-09,Sunday,20,14,False,False,False
+1270,1269,2025-11-12 10:12:00+00:00,Utilisateur_6,False,False,24157,sha1270,correction typo,Page_Controversee_(demo),fr,2025-11-12,Wednesday,10,614,False,False,False
+1271,1270,2025-11-14 11:29:00+00:00,Utilisateur_14,False,False,24604,sha11,correction,Page_Controversee_(demo),fr,2025-11-14,Friday,11,447,False,False,False
+1272,1271,2025-11-16 11:51:00+00:00,IP_237.25,True,False,25241,sha1272,ajout paragraphe,Page_Controversee_(demo),fr,2025-11-16,Sunday,11,637,False,False,False
+1273,1272,2025-11-20 05:06:00+00:00,Utilisateur_21,False,False,25132,sha1273,ajout paragraphe,Page_Controversee_(demo),fr,2025-11-20,Thursday,5,-109,False,False,False
+1274,1273,2025-11-20 08:28:00+00:00,Utilisateur_25,False,False,25399,sha1274,correction typo,Page_Controversee_(demo),fr,2025-11-20,Thursday,8,267,False,False,False
+1275,1274,2025-11-21 14:22:00+00:00,IP_254.1,True,False,25045,sha1275,correction typo,Page_Controversee_(demo),fr,2025-11-21,Friday,14,-354,False,False,False
+1276,1275,2025-11-24 13:28:00+00:00,Utilisateur_20,False,False,25437,sha1276,màj références,Page_Controversee_(demo),fr,2025-11-24,Monday,13,392,False,False,False
+1278,1277,2025-11-27 05:33:00+00:00,IP_173.101,True,False,24977,sha1278,màj références,Page_Controversee_(demo),fr,2025-11-27,Thursday,5,-460,False,False,False
+1277,1276,2025-11-27 12:47:00+00:00,Utilisateur_21,False,False,25553,sha17,revert non neutre,Page_Controversee_(demo),fr,2025-11-27,Thursday,12,576,False,True,True
+1279,1278,2025-11-28 20:57:00+00:00,Utilisateur_13,False,False,24233,sha1279,màj références,Page_Controversee_(demo),fr,2025-11-28,Friday,20,-1320,False,False,False
+1280,1279,2025-11-28 21:19:00+00:00,IP_13.95,True,False,24003,sha1280,ajout paragraphe,Page_Controversee_(demo),fr,2025-11-28,Friday,21,-230,False,False,False
+1281,1280,2025-11-30 22:56:00+00:00,Utilisateur_23,False,False,23906,sha1281,ajout paragraphe,Page_Controversee_(demo),fr,2025-11-30,Sunday,22,-97,False,False,False
+1282,1281,2025-12-03 11:11:00+00:00,IP_103.246,True,False,24134,sha1282,reformulation,Page_Controversee_(demo),fr,2025-12-03,Wednesday,11,228,False,False,False
+1283,1282,2025-12-04 17:44:00+00:00,Utilisateur_1,False,False,24441,sha1283,reformulation,Page_Controversee_(demo),fr,2025-12-04,Thursday,17,307,False,False,False
+1284,1283,2025-12-06 12:50:00+00:00,Utilisateur_25,False,False,24476,sha1284,ajout paragraphe,Page_Controversee_(demo),fr,2025-12-06,Saturday,12,35,False,False,False
+1285,1284,2025-12-09 12:52:00+00:00,IP_31.179,True,True,24415,sha1285,correction typo,Page_Controversee_(demo),fr,2025-12-09,Tuesday,12,-61,False,False,False
+1286,1285,2025-12-11 12:59:00+00:00,IP_55.101,True,False,24421,sha1286,màj références,Page_Controversee_(demo),fr,2025-12-11,Thursday,12,6,False,False,False
+1287,1286,2025-12-11 13:57:00+00:00,Utilisateur_23,False,False,23609,sha1287,reformulation,Page_Controversee_(demo),fr,2025-12-11,Thursday,13,-812,False,False,False
+1288,1287,2025-12-16 18:31:00+00:00,Utilisateur_20,False,True,23595,sha1288,ajout paragraphe,Page_Controversee_(demo),fr,2025-12-16,Tuesday,18,-14,False,False,False
+1289,1288,2025-12-18 14:18:00+00:00,Utilisateur_9,False,False,23686,sha1289,màj références,Page_Controversee_(demo),fr,2025-12-18,Thursday,14,91,False,False,False
+1290,1289,2025-12-20 18:26:00+00:00,Utilisateur_6,False,False,24570,sha1290,ajout paragraphe,Page_Controversee_(demo),fr,2025-12-20,Saturday,18,884,False,False,False
+1291,1290,2025-12-21 06:19:00+00:00,Utilisateur_1,False,True,24973,sha1291,correction typo,Page_Controversee_(demo),fr,2025-12-21,Sunday,6,403,False,False,False
+1292,1291,2025-12-23 19:36:00+00:00,Utilisateur_16,False,True,24851,sha1292,précision,Page_Controversee_(demo),fr,2025-12-23,Tuesday,19,-122,False,False,False
+1293,1292,2025-12-27 21:27:00+00:00,Utilisateur_1,False,False,24855,sha1293,précision,Page_Controversee_(demo),fr,2025-12-27,Saturday,21,4,False,False,False
+1294,1293,2025-12-28 17:09:00+00:00,Utilisateur_23,False,True,25072,sha34,revert non neutre,Page_Controversee_(demo),fr,2025-12-28,Sunday,17,217,True,True,True
+1308,1307,2026-01-01 07:18:00+00:00,Utilisateur_13,False,False,26695,sha1308,màj références,Page_Controversee_(demo),fr,2026-01-01,Thursday,7,1623,False,False,False
+1295,1294,2026-01-01 07:21:00+00:00,IP_20.89,True,True,25504,sha1295,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-01,Thursday,7,-1191,False,False,False
+1297,1296,2026-01-01 08:22:00+00:00,Utilisateur_25,False,False,25794,sha1297,màj références,Page_Controversee_(demo),fr,2026-01-01,Thursday,8,290,False,False,False
+1301,1300,2026-01-01 11:08:00+00:00,Utilisateur_9,False,True,26735,sha1301,màj références,Page_Controversee_(demo),fr,2026-01-01,Thursday,11,941,False,False,False
+1310,1309,2026-01-01 11:10:00+00:00,Utilisateur_25,False,False,27238,sha1310,correction typo,Page_Controversee_(demo),fr,2026-01-01,Thursday,11,503,False,False,False
+1312,1311,2026-01-01 11:33:00+00:00,Utilisateur_25,False,False,27268,sha1312,précision,Page_Controversee_(demo),fr,2026-01-01,Thursday,11,30,False,False,False
+1306,1305,2026-01-01 12:18:00+00:00,Utilisateur_9,False,False,26274,sha1306,reformulation,Page_Controversee_(demo),fr,2026-01-01,Thursday,12,-994,False,False,False
+1309,1308,2026-01-01 12:34:00+00:00,IP_217.22,True,True,27236,sha1309,màj références,Page_Controversee_(demo),fr,2026-01-01,Thursday,12,962,False,False,False
+1298,1297,2026-01-01 14:29:00+00:00,IP_9.117,True,False,25993,sha1298,précision,Page_Controversee_(demo),fr,2026-01-01,Thursday,14,-1243,False,False,False
+1307,1306,2026-01-01 14:36:00+00:00,Utilisateur_13,False,False,26033,sha1307,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-01,Thursday,14,40,False,False,False
+1299,1298,2026-01-01 14:55:00+00:00,Utilisateur_23,False,True,25154,sha1299,reformulation,Page_Controversee_(demo),fr,2026-01-01,Thursday,14,-879,False,False,False
+1304,1303,2026-01-01 15:20:00+00:00,Utilisateur_22,False,False,27397,sha1304,précision,Page_Controversee_(demo),fr,2026-01-01,Thursday,15,2243,False,False,False
+1305,1304,2026-01-01 17:23:00+00:00,Utilisateur_25,False,True,26632,sha1305,précision,Page_Controversee_(demo),fr,2026-01-01,Thursday,17,-765,False,False,False
+1296,1295,2026-01-01 19:05:00+00:00,Utilisateur_25,False,False,25922,sha1296,màj références,Page_Controversee_(demo),fr,2026-01-01,Thursday,19,-710,False,False,False
+1311,1310,2026-01-01 19:32:00+00:00,Utilisateur_24,False,False,27473,sha1311,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-01,Thursday,19,1551,False,False,False
+1303,1302,2026-01-01 20:22:00+00:00,Utilisateur_23,False,True,26534,sha1303,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-01,Thursday,20,-939,False,False,False
+1300,1299,2026-01-01 20:33:00+00:00,Utilisateur_24,False,False,25826,sha1300,reformulation,Page_Controversee_(demo),fr,2026-01-01,Thursday,20,-708,False,False,False
+1302,1301,2026-01-01 20:49:00+00:00,Utilisateur_17,False,True,26350,sha1302,reformulation,Page_Controversee_(demo),fr,2026-01-01,Thursday,20,524,False,False,False
+1313,1312,2026-01-03 23:04:00+00:00,IP_63.210,True,False,26938,sha1313,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-03,Saturday,23,588,False,False,False
+1314,1313,2026-01-04 12:24:00+00:00,Utilisateur_16,False,False,26535,sha1314,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-04,Sunday,12,-403,False,False,False
+1315,1314,2026-01-04 13:15:00+00:00,Utilisateur_2,False,True,26427,sha1315,précision,Page_Controversee_(demo),fr,2026-01-04,Sunday,13,-108,False,False,False
+1316,1315,2026-01-05 12:11:00+00:00,Utilisateur_5,False,False,26332,sha1316,màj références,Page_Controversee_(demo),fr,2026-01-05,Monday,12,-95,False,False,False
+1317,1316,2026-01-07 21:05:00+00:00,IP_147.76,True,False,26244,sha57,rv POV,Page_Controversee_(demo),fr,2026-01-07,Wednesday,21,-88,True,True,True
+1318,1317,2026-01-11 12:10:00+00:00,IP_53.196,True,False,26758,sha58,correction,Page_Controversee_(demo),fr,2026-01-11,Sunday,12,514,True,False,True
+1319,1318,2026-01-16 09:06:00+00:00,Utilisateur_23,False,False,27139,sha1319,ajout paragraphe,Page_Controversee_(demo),fr,2026-01-16,Friday,9,381,False,False,False
+1320,1319,2026-01-19 15:26:00+00:00,Utilisateur_2,False,False,27473,sha1320,précision,Page_Controversee_(demo),fr,2026-01-19,Monday,15,334,False,False,False
+1321,1320,2026-01-24 15:05:00+00:00,Utilisateur_25,False,False,27428,sha1,mise en forme,Page_Controversee_(demo),fr,2026-01-24,Saturday,15,-45,True,False,True
+1322,1321,2026-01-26 17:13:00+00:00,Utilisateur_22,False,True,27473,sha1322,précision,Page_Controversee_(demo),fr,2026-01-26,Monday,17,45,False,False,False
+1323,1322,2026-02-04 19:47:00+00:00,Utilisateur_9,False,False,27544,sha3,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2026-02-04,Wednesday,19,71,True,True,True
+1324,1323,2026-02-07 13:34:00+00:00,Utilisateur_23,False,False,27077,sha4,rv POV,Page_Controversee_(demo),fr,2026-02-07,Saturday,13,-467,True,True,True
+1325,1324,2026-02-07 21:04:00+00:00,Utilisateur_9,False,False,26983,sha1325,màj références,Page_Controversee_(demo),fr,2026-02-07,Saturday,21,-94,False,False,False
+1326,1325,2026-02-17 20:36:00+00:00,Utilisateur_2,False,False,27390,sha1326,ajout paragraphe,Page_Controversee_(demo),fr,2026-02-17,Tuesday,20,407,False,False,False
+1327,1326,2026-02-18 19:54:00+00:00,IP_43.51,True,True,27546,sha1327,reformulation,Page_Controversee_(demo),fr,2026-02-18,Wednesday,19,156,False,False,False
+1330,1329,2026-02-19 07:07:00+00:00,Utilisateur_13,False,False,27692,sha1330,correction typo,Page_Controversee_(demo),fr,2026-02-19,Thursday,7,146,False,False,False
+1328,1327,2026-02-19 08:31:00+00:00,Utilisateur_12,False,False,27678,sha1328,correction typo,Page_Controversee_(demo),fr,2026-02-19,Thursday,8,-14,False,False,False
+1329,1328,2026-02-19 18:52:00+00:00,Utilisateur_23,False,False,27462,sha1329,reformulation,Page_Controversee_(demo),fr,2026-02-19,Thursday,18,-216,False,False,False
+1331,1330,2026-02-20 14:29:00+00:00,Utilisateur_1,False,False,27878,sha1331,correction typo,Page_Controversee_(demo),fr,2026-02-20,Friday,14,416,False,False,False
+1332,1331,2026-02-21 21:45:00+00:00,Utilisateur_2,False,False,27915,sha12,ajout source,Page_Controversee_(demo),fr,2026-02-21,Saturday,21,37,True,False,True
+1333,1332,2026-02-24 14:16:00+00:00,Utilisateur_6,False,False,27601,sha1333,màj références,Page_Controversee_(demo),fr,2026-02-24,Tuesday,14,-314,False,False,False
+1334,1333,2026-03-08 19:11:00+00:00,Utilisateur_10,False,True,27830,sha1334,précision,Page_Controversee_(demo),fr,2026-03-08,Sunday,19,229,False,False,False
+1336,1335,2026-03-09 07:01:00+00:00,IP_6.235,True,False,27728,sha16,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2026-03-09,Monday,7,-102,True,True,True
+1335,1334,2026-03-09 13:50:00+00:00,Utilisateur_18,False,False,27873,sha1335,ajout paragraphe,Page_Controversee_(demo),fr,2026-03-09,Monday,13,145,False,False,False
+1337,1336,2026-03-12 12:32:00+00:00,IP_1.49,True,False,28029,sha1337,ajout paragraphe,Page_Controversee_(demo),fr,2026-03-12,Thursday,12,156,False,False,False
+1338,1337,2026-03-13 08:24:00+00:00,Utilisateur_2,False,False,27983,sha18,Annulation des modifications de vandalisme,Page_Controversee_(demo),fr,2026-03-13,Friday,8,-46,False,True,True
+1339,1338,2026-03-16 22:38:00+00:00,Utilisateur_2,False,False,28371,sha1339,précision,Page_Controversee_(demo),fr,2026-03-16,Monday,22,388,False,False,False
+1340,1339,2026-03-17 16:07:00+00:00,Utilisateur_2,False,False,28401,sha1340,correction typo,Page_Controversee_(demo),fr,2026-03-17,Tuesday,16,30,False,False,False
+1341,1340,2026-03-21 19:35:00+00:00,Utilisateur_20,False,False,28174,sha1341,ajout paragraphe,Page_Controversee_(demo),fr,2026-03-21,Saturday,19,-227,False,False,False
+1342,1341,2026-03-22 18:07:00+00:00,IP_116.209,True,False,28271,sha1342,correction typo,Page_Controversee_(demo),fr,2026-03-22,Sunday,18,97,False,False,False
+1344,1343,2026-03-23 11:28:00+00:00,Utilisateur_20,False,False,28295,sha24,correction,Page_Controversee_(demo),fr,2026-03-23,Monday,11,24,True,False,True
+1343,1342,2026-03-23 21:33:00+00:00,IP_2.30,True,False,27684,sha23,mise en forme,Page_Controversee_(demo),fr,2026-03-23,Monday,21,-611,True,False,True
+1345,1344,2026-03-24 17:47:00+00:00,Utilisateur_2,False,False,28341,sha1345,màj références,Page_Controversee_(demo),fr,2026-03-24,Tuesday,17,657,False,False,False
+1346,1345,2026-03-25 09:07:00+00:00,IP_207.169,True,False,28698,sha1346,correction typo,Page_Controversee_(demo),fr,2026-03-25,Wednesday,9,357,False,False,False
+1347,1346,2026-04-03 19:38:00+00:00,IP_223.23,True,False,28540,sha27,mise en forme,Page_Controversee_(demo),fr,2026-04-03,Friday,19,-158,True,False,True
+1348,1347,2026-04-06 11:41:00+00:00,IP_40.82,True,False,28275,sha1348,correction typo,Page_Controversee_(demo),fr,2026-04-06,Monday,11,-265,False,False,False
+1349,1348,2026-04-11 10:44:00+00:00,IP_151.236,True,False,28051,sha1349,màj références,Page_Controversee_(demo),fr,2026-04-11,Saturday,10,-224,False,False,False
+1351,1350,2026-04-13 17:40:00+00:00,Utilisateur_24,False,True,28201,sha1351,précision,Page_Controversee_(demo),fr,2026-04-13,Monday,17,150,False,False,False
+1350,1349,2026-04-13 19:15:00+00:00,Utilisateur_2,False,False,28059,sha1350,màj références,Page_Controversee_(demo),fr,2026-04-13,Monday,19,-142,False,False,False
+1352,1351,2026-04-18 21:11:00+00:00,IP_17.126,True,False,28290,sha1352,ajout paragraphe,Page_Controversee_(demo),fr,2026-04-18,Saturday,21,231,False,False,False
+1353,1352,2026-04-20 12:55:00+00:00,Utilisateur_18,False,False,27750,sha1353,reformulation,Page_Controversee_(demo),fr,2026-04-20,Monday,12,-540,False,False,False
+1354,1353,2026-04-21 12:51:00+00:00,IP_249.157,True,False,26655,sha1354,reformulation,Page_Controversee_(demo),fr,2026-04-21,Tuesday,12,-1095,False,False,False
+1355,1354,2026-04-21 20:23:00+00:00,Utilisateur_2,False,True,26664,sha35,mise en forme,Page_Controversee_(demo),fr,2026-04-21,Tuesday,20,9,True,False,True
+1356,1355,2026-04-23 14:29:00+00:00,Utilisateur_5,False,True,27131,sha1356,précision,Page_Controversee_(demo),fr,2026-04-23,Thursday,14,467,False,False,False
+1358,1357,2026-04-23 15:23:00+00:00,Utilisateur_21,False,True,26845,sha1358,correction typo,Page_Controversee_(demo),fr,2026-04-23,Thursday,15,-286,False,False,False
+1357,1356,2026-04-23 18:26:00+00:00,Utilisateur_23,False,False,26724,sha1357,correction typo,Page_Controversee_(demo),fr,2026-04-23,Thursday,18,-121,False,False,False
+1359,1358,2026-04-24 15:22:00+00:00,Utilisateur_23,False,True,26833,sha1359,correction typo,Page_Controversee_(demo),fr,2026-04-24,Friday,15,109,False,False,False
+1360,1359,2026-04-27 14:53:00+00:00,Utilisateur_23,False,False,26520,sha1360,correction typo,Page_Controversee_(demo),fr,2026-04-27,Monday,14,-313,False,False,False
+1361,1360,2026-04-29 12:47:00+00:00,Utilisateur_2,False,False,26623,sha1361,correction typo,Page_Controversee_(demo),fr,2026-04-29,Wednesday,12,103,False,False,False
+1362,1361,2026-05-03 13:11:00+00:00,IP_39.128,True,True,26879,sha1362,correction typo,Page_Controversee_(demo),fr,2026-05-03,Sunday,13,256,False,False,False
+1363,1362,2026-05-03 14:19:00+00:00,Utilisateur_10,False,False,27811,sha43,correction,Page_Controversee_(demo),fr,2026-05-03,Sunday,14,932,True,False,True
+1365,1364,2026-05-04 07:05:00+00:00,IP_155.60,True,False,27564,sha45,ajout source,Page_Controversee_(demo),fr,2026-05-04,Monday,7,-247,True,False,True
+1364,1363,2026-05-04 13:31:00+00:00,Utilisateur_23,False,False,27705,sha1364,reformulation,Page_Controversee_(demo),fr,2026-05-04,Monday,13,141,False,False,False
+1366,1365,2026-05-05 15:32:00+00:00,IP_81.118,True,False,27715,sha1366,màj références,Page_Controversee_(demo),fr,2026-05-05,Tuesday,15,10,False,False,False
+1367,1366,2026-05-06 12:10:00+00:00,Utilisateur_13,False,False,27411,sha47,rv POV,Page_Controversee_(demo),fr,2026-05-06,Wednesday,12,-304,True,True,True
+1368,1367,2026-05-09 15:56:00+00:00,IP_243.13,True,False,27372,sha1368,reformulation,Page_Controversee_(demo),fr,2026-05-09,Saturday,15,-39,False,False,False
+1369,1368,2026-05-12 10:42:00+00:00,IP_165.6,True,False,27334,sha1369,reformulation,Page_Controversee_(demo),fr,2026-05-12,Tuesday,10,-38,False,False,False
+1370,1369,2026-05-13 14:00:00+00:00,Utilisateur_2,False,True,27414,sha1370,màj références,Page_Controversee_(demo),fr,2026-05-13,Wednesday,14,80,False,False,False
+1371,1370,2026-05-18 16:55:00+00:00,Utilisateur_13,False,False,27041,sha51,ajout source,Page_Controversee_(demo),fr,2026-05-18,Monday,16,-373,True,False,True
+1372,1371,2026-05-19 14:37:00+00:00,Utilisateur_10,False,True,26773,sha1372,précision,Page_Controversee_(demo),fr,2026-05-19,Tuesday,14,-268,False,False,False
+1374,1373,2026-05-20 16:27:00+00:00,IP_253.69,True,False,26146,sha1374,reformulation,Page_Controversee_(demo),fr,2026-05-20,Wednesday,16,-627,False,False,False
+1373,1372,2026-05-20 19:30:00+00:00,Utilisateur_1,False,False,26774,sha1373,précision,Page_Controversee_(demo),fr,2026-05-20,Wednesday,19,628,False,False,False
+1375,1374,2026-05-21 20:17:00+00:00,IP_47.42,True,True,26565,sha1375,màj références,Page_Controversee_(demo),fr,2026-05-21,Thursday,20,-209,False,False,False
+1376,1375,2026-05-26 10:02:00+00:00,IP_18.199,True,False,26101,sha1376,reformulation,Page_Controversee_(demo),fr,2026-05-26,Tuesday,10,-464,False,False,False
+1377,1376,2026-05-27 15:03:00+00:00,Utilisateur_23,False,True,25788,sha57,mise en forme,Page_Controversee_(demo),fr,2026-05-27,Wednesday,15,-313,True,False,True
+1378,1377,2026-05-28 10:17:00+00:00,Utilisateur_23,False,True,25382,sha1378,reformulation,Page_Controversee_(demo),fr,2026-05-28,Thursday,10,-406,False,False,False
