@@ -10,7 +10,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-from config import (
+from src.config import (
     API_ENDPOINT, DEFAULT_LANG, REQUEST_PAUSE_S, REV_BATCH, USER_AGENT,
 )
 
